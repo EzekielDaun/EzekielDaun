@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">UBC-ARL/PPPSR-3-Zaber</span>
+                                        <span class="repo">EzekielDaun/PPPSR-3-Zaber</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ed97e5</div>
-                                        <div class="message">Refactor movement units from millimeters to meters and adjust related calculations</div>
+                                        <div class="sha">#3cb98f7</div>
+                                        <div class="message">Add initial implementation of asynchronous and synchronous robot control examples</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ecb36d7</div>
-                                        <div class="message">Update dimension parameters to use meters instead of millimeters</div>
+                                        <div class="sha">#12e2c93</div>
+                                        <div class="message">Update import statement in __init__.py to include Array3 from inverse_kinematics</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">UBC-ARL/PPPSR-3-Zaber</span>
+                                        <span class="repo">UBC-ARL/orca-py</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b16ef13</div>
-                                        <div class="message">Update dependency to use the latest kinematics</div>
+                                        <div class="sha">#8df1a81</div>
+                                        <div class="message">Allow Python3.12</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">UBC-ARL/PPPSR-3</span>
+                                        <span class="repo">UBC-ARL/ARL-utils-py</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b6085a5</div>
-                                        <div class="message">Add symbolic inverse kinematics functions and update dependencies</div>
+                                        <div class="sha">#d99bbf1</div>
+                                        <div class="message">Migrate to pixi</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">UBC-ARL/PPPSR-3-Zaber</span>
+                                        <span class="repo">UBC-ARL/ARL-utils-py</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f1a922b</div>
-                                        <div class="message">Fix calculation of movement ratio in robot control logic</div>
+                                        <div class="sha">#2b85be7</div>
+                                        <div class="message">Migrate to pixi</div>
                                     </div>
                                 </div>
                             </section>
