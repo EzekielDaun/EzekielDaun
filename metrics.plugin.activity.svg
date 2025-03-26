@@ -23,14 +23,34 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">EzekielDaun/PPPSR-3-Zaber</span>
+                                        <span class="repo">UBC-ARL/ARL-utils-py</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3cb98f7</div>
-                                        <div class="message">Add initial implementation of asynchronous and synchronous robot control examples</div>
+                                        <div class="sha">#7084771</div>
+                                        <div class="message">Update dependency version</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">UBC-ARL/PPPSR-3-Zaber</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7154db0</div>
+                                        <div class="message">Update resolved reference for PPPSR-3 dependency in poetry.lock</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#12e2c93</div>
-                                        <div class="message">Update import statement in __init__.py to include Array3 from inverse_kinematics</div>
+                                        <div class="sha">#15b3b18</div>
+                                        <div class="message">Fix test code</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">UBC-ARL/orca-py</span>
+                                        <span class="repo">UBC-ARL/PPPSR-3</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8df1a81</div>
-                                        <div class="message">Allow Python3.12</div>
+                                        <div class="sha">#ab639f0</div>
+                                        <div class="message">Fix test code</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,34 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">UBC-ARL/ARL-utils-py</span>
+                                        <span class="repo">UBC-ARL/PPPSR-3-Zaber</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d99bbf1</div>
-                                        <div class="message">Migrate to pixi</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UBC-ARL/ARL-utils-py</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2b85be7</div>
-                                        <div class="message">Migrate to pixi</div>
+                                        <div class="sha">#7251c79</div>
+                                        <div class="message">Implement asynchronous movement logic with max step constraints for robot control</div>
                                     </div>
                                 </div>
                             </section>
