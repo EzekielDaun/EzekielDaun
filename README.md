@@ -17,7 +17,7 @@
 
 <div align = "center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21bvmddg42mq6ww6syiovlkxq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21bvmddg42mq6ww6syiovlkxq&redirect=true)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001769.c9d15d469d7c4388bc5e3aba0b3d4100.0515)](https://music-profile.rayriffy.com)
 
 </div>
 
