@@ -19,8 +19,6 @@
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001769.c9d15d469d7c4388bc5e3aba0b3d4100.0515)](https://music-profile.rayriffy.com)
 
-</div>
-
 <!-- [![/metrics.classic.svg](/metrics.classic.svg)]()(https://github.com/EzekielDaun/EzekielDaun) -->
 
 [![/metrics.plugin.languages.details.svg](/metrics.plugin.languages.details.svg)](https://github.com/EzekielDaun/EzekielDaun)
@@ -36,6 +34,9 @@
 [![/metrics.plugin.rss.svg](/metrics.plugin.rss.svg)](https://ezekieldaun.github.io/)
 
 [![/metrics.plugin.code.svg](/metrics.plugin.code.svg)](https://github.com/EzekielDaun/EzekielDaun)
+
+</div>
+
 
 <!--
 **EzekielDaun/EzekielDaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
