@@ -27,7 +27,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, tex, scss, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, JavaScript, Assembly
+            html, css, tex, scss, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, JavaScript, Assembly, AGS Script, ASL, Mathematica
           plugin_languages_details: bytes-size, percentage, lines
 
       - name: Recently starred
